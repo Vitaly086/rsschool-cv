@@ -2,11 +2,10 @@
 ## My contact:
 * [LinkedIn](https://www.linkedin.com/in/shcherbinovv)
 * [Tg](https://t.me/Vshcherbinov)
+
+
 ## About me:
 I am a ***Junior Unity*** developer with experience in C#, OOP, and design patterns. I am currently working at a programming school and a game development studio, where I have honed my skills and gained experience in the field. I am looking for opportunities to continue my professional development and work on exciting projects as a remote Unity developer.
-
-
-
 
 ## Skills:
 * Unity development
